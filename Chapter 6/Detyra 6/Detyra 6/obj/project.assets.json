@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\Desktop\\Detyrat\\Chapter 6\\Detyra 6\\Detyra 6\\Detyra 6.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\Desktop\\Desktop\\Detyrat\\Chapter 6\\Detyra 6\\Detyra 6\\Detyra 6.csproj",
       "projectName": "Detyra 6",
-      "projectPath": "C:\\Users\\pc\\Desktop\\Detyrat\\Chapter 6\\Detyra 6\\Detyra 6\\Detyra 6.csproj",
+      "projectPath": "C:\\Users\\pc\\Desktop\\Desktop\\Detyrat\\Chapter 6\\Detyra 6\\Detyra 6\\Detyra 6.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\Desktop\\Detyrat\\Chapter 6\\Detyra 6\\Detyra 6\\obj\\",
+      "outputPath": "C:\\Users\\pc\\Desktop\\Desktop\\Detyrat\\Chapter 6\\Detyra 6\\Detyra 6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",

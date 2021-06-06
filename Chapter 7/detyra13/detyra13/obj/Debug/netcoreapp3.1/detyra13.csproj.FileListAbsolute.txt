@@ -1,0 +1,13 @@
+C:\Users\vjoll\OneDrive\Desktop\Strukturat e te dhenave chapters\C# Chapter7\detyra13\detyra13\bin\Debug\netcoreapp3.1\detyra13.exe
+C:\Users\vjoll\OneDrive\Desktop\Strukturat e te dhenave chapters\C# Chapter7\detyra13\detyra13\bin\Debug\netcoreapp3.1\detyra13.deps.json
+C:\Users\vjoll\OneDrive\Desktop\Strukturat e te dhenave chapters\C# Chapter7\detyra13\detyra13\bin\Debug\netcoreapp3.1\detyra13.runtimeconfig.json
+C:\Users\vjoll\OneDrive\Desktop\Strukturat e te dhenave chapters\C# Chapter7\detyra13\detyra13\bin\Debug\netcoreapp3.1\detyra13.runtimeconfig.dev.json
+C:\Users\vjoll\OneDrive\Desktop\Strukturat e te dhenave chapters\C# Chapter7\detyra13\detyra13\bin\Debug\netcoreapp3.1\detyra13.dll
+C:\Users\vjoll\OneDrive\Desktop\Strukturat e te dhenave chapters\C# Chapter7\detyra13\detyra13\bin\Debug\netcoreapp3.1\detyra13.pdb
+C:\Users\vjoll\OneDrive\Desktop\Strukturat e te dhenave chapters\C# Chapter7\detyra13\detyra13\obj\Debug\netcoreapp3.1\detyra13.csprojAssemblyReference.cache
+C:\Users\vjoll\OneDrive\Desktop\Strukturat e te dhenave chapters\C# Chapter7\detyra13\detyra13\obj\Debug\netcoreapp3.1\detyra13.AssemblyInfoInputs.cache
+C:\Users\vjoll\OneDrive\Desktop\Strukturat e te dhenave chapters\C# Chapter7\detyra13\detyra13\obj\Debug\netcoreapp3.1\detyra13.AssemblyInfo.cs
+C:\Users\vjoll\OneDrive\Desktop\Strukturat e te dhenave chapters\C# Chapter7\detyra13\detyra13\obj\Debug\netcoreapp3.1\detyra13.csproj.CoreCompileInputs.cache
+C:\Users\vjoll\OneDrive\Desktop\Strukturat e te dhenave chapters\C# Chapter7\detyra13\detyra13\obj\Debug\netcoreapp3.1\detyra13.dll
+C:\Users\vjoll\OneDrive\Desktop\Strukturat e te dhenave chapters\C# Chapter7\detyra13\detyra13\obj\Debug\netcoreapp3.1\detyra13.pdb
+C:\Users\vjoll\OneDrive\Desktop\Strukturat e te dhenave chapters\C# Chapter7\detyra13\detyra13\obj\Debug\netcoreapp3.1\detyra13.genruntimeconfig.cache

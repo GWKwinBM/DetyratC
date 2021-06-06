@@ -1,0 +1,4 @@
+C:\Users\vjoll\OneDrive\Desktop\Strukturat e te dhenave chapters\C# Chapter10\detyra1\detyra1\obj\Debug\netcoreapp3.1\detyra1.csprojAssemblyReference.cache
+C:\Users\vjoll\OneDrive\Desktop\Strukturat e te dhenave chapters\C# Chapter10\detyra1\detyra1\obj\Debug\netcoreapp3.1\detyra1.AssemblyInfoInputs.cache
+C:\Users\vjoll\OneDrive\Desktop\Strukturat e te dhenave chapters\C# Chapter10\detyra1\detyra1\obj\Debug\netcoreapp3.1\detyra1.AssemblyInfo.cs
+C:\Users\vjoll\OneDrive\Desktop\Strukturat e te dhenave chapters\C# Chapter10\detyra1\detyra1\obj\Debug\netcoreapp3.1\detyra1.csproj.CoreCompileInputs.cache
